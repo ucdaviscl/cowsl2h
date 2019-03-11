@@ -1,0 +1,7 @@
+"¡Hola! Me llamo *FIRST_NAME* y soy estudiante en *UNIVERSITY* que va a estudiar español, alemán y teatro. Me encantan las lenguas y el arte teatral, por eso quiero hablar por lo menos seis lenguas y actuar en todo el mundo en el futuro. Por mi profesión en el porvenir, puedo viajar a muchos lugares en todo el mundo. Para mí, todos los días son las vacaciones muy emocionantes.
+
+    El primer lugar de destino va a ser Barcelona en españa. Barcelona es una ciudad muy grande y bonita. Hay muchas cosas que puedo hacer en esta ciudad. Primero, quiero ir a todas las atracciones turísticas como La Sagrada Familia. También, voy a visitar el mercado de la Boqueria. Me encanta la moda, por eso voy a ir a todos los centros comerciales para comprar mucha ropa y muchas joyas.
+
+    El segundo lugar de destino va a ser Milán, la capital de Italia. Quiero ir a Milán mucho porque es la ciudad de la moda. Soy Drag Queen y necesito aprender más y más conocimiento sobre la moda. Hay muchos eventos de la moda en Milán y necesito ir a esos para que pueda ver muchos tipos de la ropa hermosa y me mejore el sentido de la moda.
+
+    El tercer lugar de destino va a ser Nueva Zelanda, un país rodeado por el océano. Nueva Zelanda tiene un medio ambiente muy muy bueno y cero contaminación. Hay ríos, montañas, bosques y animales diversos. La calidad del aire en Nueva Zelanda es muy alta y es saludable vivir allí para la gente con enfermedad." 

@@ -1,0 +1,9 @@
+"Hay muchos lugares donde yo quería ir de vacaciones, pero, mis vacaciones perfectas incluyen más de dos meses en el extranjero. Primero, viajaría con mis tres amigas más cercanas. Me gustaría ir en una aventura con ellas, porque son muy divertidas. En mis vacaciones perfectas, todos mis vuelos estarían a tiempo y no habrían problemas con los viajes.
+
+El primer lugar que nosotras visitaríamos es Europa. Me gustaría visitar [muchas]{muchos}<ga:mf:det:inan> países come España, Francia, Italia, e Inglaterra. Yo querría explorer las ciudades antiguas y experimentaría las culturas diferentes de cada país. Me gustaría probar la cocina local y ver todos los monumentos famosos.
+
+El segundo lugar que yo quería ir a con mis amigas es Tailandia. Vería los templos exóticos y las playas muy bonitas. Muchas personas me dijeron que el agua es muy azúl y transparente y me gustaría verlo. Pero, estaría más entusiasmado por los elefantes. Acariciaría un elefante y tomaría fotos. Los elefantes son mi animal favorite y sería un sueño ver uno en la vida real. También, mis amigas y yo probaríamos comida tailandesa auténtica y compararía a [las]{los}<ga:mf:det:inan> restaurantes<gat:noun:inan> [tailandesa]{taliandeses}<ga:na:mf:ps:adj:inan> en los estados unidos.
+
+El final lugar que nosotras visitaríamos es el Caribe. Me gustaría relajarme en las playas con una bebida en mi mano. Viajaríamos a muchas islas del Caribe como Jamaica, Turks y Caicos, Santa Lucía, Aruba, la República Dominicana y las Bahamas. Mis amigas y yo Haríamos surf y haríamos snorkel en el mar. Tomaríamos el sol en la playa comeríamos mucho todos los días. Honestamente, pasaría la mayoría de mi tiempo en la playa y hablaría con mis amigas.
+
+¡Es un buen viaje!"

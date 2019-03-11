@@ -1,0 +1,3 @@
+Una Persona Famosa
+
+La persona famosa es Bill Gates. Nació el 28 de octubre de 1955. Es hombre de negocios. Es de nacionalidad estadounidense. Tiene sesenta y dos años. Tiene los ojos azules, el pelo de color café. Tiene la piel muy pálida. No es [gorda]{gordo}<ga:mf:adj:an>: es un poco [delgada]{delgado}<ga:mf:adj:an>. Es [una]{un}<ga:mf:det:an> hombre muy [trabajadora]{trabajador}<ga:mf:adj:an>, inteligente, y cómico. Le gusta cocinar, no le gusta hugar videojuegos. Bill Gates tiene cuarenta y nueve años cuando se casó con Melinda Gates. Es muy rico y exitoso. Yo soy abanico del Bill Gats.

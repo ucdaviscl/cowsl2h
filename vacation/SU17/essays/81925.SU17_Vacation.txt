@@ -1,0 +1,11 @@
+Hola, me llamo *FIRST_NAME*. Soy de *STATE*. Yo tengo *NUMBER* años. Me gustaría hablar de mi plan de vacación en de agosto.
+
+Yo tengo una hija. Ella se llama *FIRST_NAME* y tiene *NUMBER* años. Ella va a ser *NUMBER* en un mes. Se cúmplenos es el *NUMBER* de *MONTH*, que es sábado. Después de este trimestre de verano, regreso a la mi familia en *CITY* y planeo dar una sorpresa para mi hija.
+
+A mi hija, *FIRST_NAME*, se gusta la playa. También se gusta las criaturas del mar. Por lo tanto, voy a llevar a ella al acuario de la bahía de Monterey. Hay tiburones, tortugas, delfines, caballitos de mar pescado de la jalea y animales mamíferos como las nutrias marinas y focas. Pasamos la mañana allí.
+
+Después de acuario, vamos a ir de centro de Monterey y comprar algunos helados porque va a ser caliente ese día. A el mediodía, almorzamos en a un restaurante mexicano porque nos gusta comemos la comida mexicana, especialmente tacos.
+
+Después del almuerzo, vamos a ir la playa en de Carmel. Esta playa es hermosa y no ocupada. También es fresca. Pasamos la tarde allí.
+
+Entonces vamos a volver a nuestra casa por la noche y vamos a cenar cerca. Estoy muy emocionado. ¿Cuál es tu plan?

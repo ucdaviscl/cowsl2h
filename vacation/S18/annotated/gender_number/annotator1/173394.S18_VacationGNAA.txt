@@ -1,0 +1,11 @@
+"Si pudiera viajar a solo uno lugar, viajaría a Hawái porque es [hermosísima]{hermosísimo}<ga:mf:adj:inan> ahí y porque hay muchas cosas [divertidos]{divertidas}<ga:fm:adj:inan> para hacer. Sería mi [vacación]{vacaciones}<in:s:noun:inan> perfecta. Viajaría con mi familia y algunos de mis amigos mejores.
+
+            En el primer día llegaríamos a el complejo turístico justo a tiempo mirar el asombroso atardecer. Mientras miramos el atardecer, también comeríamos la rica barbacoa hawaiana.
+
+            En el segundo día, exploraríamos el complejo turístico, nadaríamos, nos relajaríamos por la piscina, tomaríamos fotos, y disfrutaríamos los lujos del complejo turístico. De nuevo, encontraríamos nuestro lugar para mirar el atardecer.  Para terminar el día, miraríamos una película por la piscina.
+
+            En el tercero día, trataríamos explorar [algunos]{algunas}<ga:fm:pron:inan> de las playas fantásticas. Nadaríamos, jugaríamos en la arena, construiríamos castillos de arena, broncearíamos por el mar, y comeríamos en el restaurante en la playa. Después de comer, miraríamos el sol hunde despacio entre el mar.
+
+            En el cuarto día, visitaríamos la bella naturaleza aquí. Visitaríamos las selvas lluviosas y tomaríamos fotos con la flora y fauna. Después de visitar alguna de la belleza biológica, exploraríamos la belleza más geológica como los volcanes y las cuevas [tallado]{talladas}<ga:na:fm:ps:adj:inan> por los volcanes. Definidamente, visitaríamos los volcanes activos por la noche para que podríamos ver el brillo de la lava.
+
+            En nuestro [ultima]{último}<ga:mf:det:aty:inan> día, bucearíamos con esnórquel y veríamos las incontables especies de peces. Me encantaría ver la diversidad biológica presente ahí en Hawái.  Traeríamos la cámara subacuática.Para concluir esa vacaciona, miraríamos y nos despediríamos al atardecer hawaiano. Más tarde esa noche, compraríamos recuerdos para recordar el viaje."

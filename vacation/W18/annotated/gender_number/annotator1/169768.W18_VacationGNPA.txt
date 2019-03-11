@@ -1,0 +1,7 @@
+"Para las vacaciones muy buenas, me gustaría viajar a Europa por seis semanas con mi esposo. Me gustaría vistitar Francia y España [unas]{unos}<ga:mf:det:inan> otros paises.
+
+Me gustaría vistitar Francia porque hablo un poquito de [Francesa]{francés}<ig:f:noun:inan> y en Francia puedo practicar mi [Francesa]{francés}<ig:f:noun:inan>. Tambíen, me gusta la comida de Francia, especialmente [la]{el}<ga:mf:det:inan> pan y las galletas. En Francia, voy a Paris y voy a caminar y comprar por Champs Elysees. Tambíen, voy a visitar Notre Dame, Versailles, y el Louvre. Me gustaría ir al sud de Francia por [uno]{una}<ga:fm:det:inan> o dos semanas tambíen.
+
+Después, nosotros vamos a la España por tren. Me gustaría voy a Madrid y Seville. Voy a practicar mi Español y comer la comida especial de España, como las tortillas Españas y las fruitas de Seville. Después, voy a Granada por visitar la Alhambra.
+
+Me gustaría mucho pasear el tiempo en Europa con mi esposo y relajarme en [las]{los}<ga:mf:det:inan> países<gat:noun:inan> [lindas]{lindos}<ga:mf:det:inan>!"

@@ -1,0 +1,5 @@
+"una [vacación]{vacaciones}<in:s:noun:inan> perfecta
+
+Mi familia y yo viajamos a Tailandia por avión el año pasado. Nosotros pasamos ocho horas en avión.[Mi]{mis}<na:ps:det:an> padres, hermanos y yo fuimos a muchas hermosas islas. Tuvimos muchos mariscos increíbles incluyendo cangrejo, camarones, langosta, etc. Vivimos en un muy buen hotel. Las habitaciones son muy grandes, luminosas y limpias. Primero visitamos Bangkok. La vista nocturna es muy hermosa. Compramos muchos recuerdos y ropa. Visitamos el Gran Palacio donde solían vivir las familias reales. Los edificios fueron increíbles y hermosos. 
+
+Luego, viajamos a la isla de phuket. Había muchas playas soleadas. El clima fue realmente agradable. Mariscos en la isla de phuket eran frescos y sabrosos. Había muchas discotecas, restaurantes y tiendas en la isla. Nos lo pasamos genial allí. Tenía muchos cocos en la isla. La fruta y el marisco en la isla fueron realmente excelentes. Este viaje a Tailandia es el mejor viaje que he tenido." 

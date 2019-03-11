@@ -1,0 +1,12 @@
+"Mi [Vacación]{vacaciones}<in:s:noun:inan> Ideal
+
+Mi [vacación]{vacaciones}<in:s:noun:inan> ideal es en Hawaii. Nunca he estado en Hawai y siempre he querido ir. Yo quiero ir con mi mama, papa, y mi hermana menor. Nosotros viajaremos en avión y nos quedaremos en un buen hotel. Pasaremos una semana en Hawai.
+
+La primera cosa yo quiero hacer en Hawai es nadar en el océano. El océano en Hawai es muy caliente, a diferencia de los de California. Yo no puedo nadar en el océano en California porque hace demasiado frío. Quiero ir a bucear también. Parece muy divertido porque puedes ver todos los peces en el océano. 
+
+Segundo, yo quiero visitar a Dole plantación. Es una plantación de piña
+y es famosa por el ""Dole Whip."" Es un helado muy delicioso. En el Dole plantación, puedo hacer un recorrido. Tiene muy atracciones, como el jardín, un laberinto, y un tren. También hay una tienda de recuerdos para que puedo comprar regalos para mis amigos.
+
+Finalmente, yo quiero relajarme en la playa y pasar tiempo con mi familia. Yo quiero ir a broncear mientras bebo una piña colada. Yo puedo tomar una siesta en la playa también. Es muy relajante y yo no tengo que preocuparme a escuela o trabajo. Esa es mi parte favorita de mi viaje.
+
+En mi vacación en Hawai, yo quiero nadar en el océano, relajarme en la playa, y visitar el Dole plantación. Estas cosas van a hacer [un]{una}<ga:fm:det:inan> [vacación]{vacaciones}<in:s:gat:noun:inan> [perfecto]{perfecta}<ga:fm:adj:inan> para mi. Espero que algún día yo puedo viajar a Hawai."

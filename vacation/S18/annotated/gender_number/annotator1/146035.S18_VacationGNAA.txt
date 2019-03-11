@@ -1,0 +1,9 @@
+"Este verano tengo [mucho]{muchos}<na:ps:det:inan> planes. Necesitaria trabajar mucho porque no tengo mucho dinero. Trabajaré en una oficina muchos días. Pero, cuando tendre días no trabajar, viajaré mucho y visitare muchos amigos y familia.
+
+En Julio, mis amigos y yo vamos a ir a sureste de California a visitar más amigos y iremos a Knott’s Berry Farm. También comeremos en restaurantes muy famosos y visitaremos la playa y museos. Soy muy feliz a ir al viaje. No he visto mi amigo en sureste de California en más de un año y [la]{lo}<ga:mf:pron:an> extrano mucho. Ojalá que podamos tener mucho tiempo [junto]{juntos}<na:ps:adj:inan>.
+
+Después, voy a ir a las montañas con mi familia para una semana. Caminaremos y acamparemos en las montañas. Estara muy divetida. Cantaremos en [los]{las}<ga:fm:det:inan> noches al lado de la hoguera y haceremos postres S’mores. En [el]{los}<na:ps:det:inan> días jugaremos juegos y iremos al lago y nadaremos. Necesitaremos cocinar fuera con la hoguera. Podremos cocinar chile con carne, patatas, pescado y vegetales de  zanahorias y brócoli. También comeremos frutas de manzanas, uvas, y cerezas.
+
+El final viaje es a ir una cabaña en [los]{las}<ga:fm:det:inan> montanas con mis mejores amigos. Es una grande cabana con muchos cuadros, una jacuzzi, y muchos juegos de mesa. Las montañas están muy bonitas y [tranquilos]{tranquilas}<ga:fm:adj:inan>. Descansaremos en la playa del lago por muchas horas y nadaremos. En [otras]{otros}<ga:mf:det:aty:inan> días caminaremos en las montañas muy lejos y [alto]{altas}<ga:na:fm:ps:adj:inan>. En la noche cocinaremos [muchos]{mucha}<ga:na:fm:sp:det:inan> comida deliciosa, y habla mucho y chisme.
+
+[Todos]{todas}<ga:fm:det:inan> [los]{las}<ga:fm:det:inan> actividades<gat:noun:inan> estaremos mucho divertido y quiero que la escuela termine."

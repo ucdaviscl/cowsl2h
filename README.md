@@ -24,7 +24,7 @@ Metadata files consist of the following data items separated by "|||":
 11) writing ability **
 12) abroad
 
-* Comprehension is self-described on the following scale:
+\* Comprehension is self-described on the following scale:
 1 (not confident at all)
 2 (not extremely confident, but I am sometimes able to understand)
 3 (somewhat confident but it depends a lot on the context and on my degree of focus on the task)

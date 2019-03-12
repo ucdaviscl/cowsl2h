@@ -25,15 +25,15 @@ Metadata files consist of the following data items separated by "|||":
 12) abroad
 
 \* Comprehension is self-described on the following scale:
-1 (not confident at all)
-2 (not extremely confident, but I am sometimes able to understand)
-3 (somewhat confident but it depends a lot on the context and on my degree of focus on the task)
-4 (quite confident: I understand written messages most of the time)
-5 (extremely confident: I can understand any written message in Spanish)
+* 1 (not confident at all)
+* 2 (not extremely confident, but I am sometimes able to understand)
+* 3 (somewhat confident but it depends a lot on the context and on my degree of focus on the task)
+* 4 (quite confident: I understand written messages most of the time)
+* 5 (extremely confident: I can understand any written message in Spanish)
 
 ** Speaking/writing ability is self-described on the following scale:
-1 (not confident at all)
-2 (not extremely confident)
-3 (somewhat confident)
-4 (quite confident)
-5 (extremely confident)
+* 1 (not confident at all)
+* 2 (not extremely confident)
+* 3 (somewhat confident)
+* 4 (quite confident)
+* 5 (extremely confident)

@@ -22,7 +22,7 @@ Metadata files consist of the following data items separated by "|||":
 9) reading comprehension *
 10) speaking ability **
 11) writing ability **
-12) abroad
+12) Have you ever lived in a Spanish-speaking country?
 
 \* Comprehension is self-described on the following scale:
 * 1 (not confident at all)

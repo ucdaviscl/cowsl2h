@@ -4,6 +4,7 @@
 #Simple script to calculate Krippendorff's Alpha from a csv indicating annotation agreements
 #Input file(s) is the comparison_union csv file output by the agreement_by_union.py script
 #You may list as many input csvs as you like in the command line arguments
+#Dependencies: krippendorff python package
 
 import io, sys, krippendorff
 

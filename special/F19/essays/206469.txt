@@ -1,0 +1,13 @@
+Una persona especiale en mi vida es mi hermana, *FIRST_NAME*. Ella es inteligente y cómico, y siempre sabe cuando escuchar.  Le cuento todo. 
+
+*FIRST_NAME* es de *CITY*, *STATE*. Ella tiene *AGE* años. Su cumpleaños es tres de Junio, y mi cumpleaños son veinte días despues.
+
+*FIRST_NAME* tienen ojos cafés, pelo marrón liso, y es pequeña. Ella no gusta siendo más bajo que yo. 
+
+La especialización de *FIRST_NAME* estaba biología. Ella atendida la universidad de *UNIVERSITY*. Quiere ir a escuela medicina, o escuela de posgrado por química.
+
+*FIRST_NAME* habla inglés, un poco francés y ruso, y un poquito español. Ella quiere aprender mas francés, ruso, y español, y algo de chino. Ella encantan las idomas (¡Como mi mamá!).
+
+Ella encantan los videojuegos, los libros, correr, y tiro con arco. Ella videojuego favorito es Neverwinter Nights 2. Ella gusta los novelas de romance, misterio, y fantasía.
+
+¡Mi hermana es mi persona favorita en todo el mundo!

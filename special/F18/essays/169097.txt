@@ -1,0 +1,3 @@
+Hola! Mi madre es especial. Ella es muy simpática. Mi madre tiene pelo corto rubio y tiene ojos azules. Ella es fuerte y alta y delgada. Ella lleva gafas. Ella es doctora. Su nacionalidad es neozelandesa. Su cumpleaños es el treinta y uno de Augusto. Su numero de telefono es mas *NUMBER*. Mi madre tiene cuatro niños. Tres hijas y uno hijo. Sus nombres son *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME*. Mi madre vive en *CITY*, Nueva Zelanda. Ella tiene *AGE*. 
+Ella le gusta manzanas y tacos y juego y lechuga. 
+Le gusta mucho dormir. Tiene un gato que se llama *FIRST_NAME*. En su casa ella tiene una ventana y silla y ordenador y puerta. Ella le gusta hablar ingles. Ella le gusta jugar tenis y golf. Sus colores favoritas son azul y rojo. Yo amo a mi mama. 

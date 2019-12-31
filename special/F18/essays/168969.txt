@@ -1,0 +1,13 @@
+    Yo tengo una persona que es muy especial. Es mi tia, *FIRST_NAME*. Mi tia me enseñó a montar un caballeo cuando yo solamente tiene diez años. Durante el fin de la semana nosotros iríamos a trabajar en el rancho cuando nosotros enseñamos niñas y niños para montar un cabello. Después trabajo nosotros iríamos a comer. Nuestras restaurante favorite era un restaurante mexicana se llama *PLACE*. Cada vez yo como un burrito con pollo y mi tía come un "burrito bowl" con pollo.
+
+    Yo vi mi tia cada día porque después de escuela ella vendría y recogarme y tomarme a su oficina. Yo trabajé en mi tarea y vi películas cuando yo terminé mi tarea. Mi tia es era aquí cuando otras personas en mi familia eran no. Ella compró ropa para mi asegurarse que yo tuvo ropa nueva y ropa bonita para llevar a escuela. '
+
+    Ahora, mi tia vive en *CITY*, *STATE* cerca *CITY*, *STATE*. Cada tiempo yo puedo visitar mi tia y su hijo nuevo yo manejo a *CITY*. 
+
+    Yo fuí para visitar mi tia este verano y nosotros iríamos a *STATE* para acampar. Yo tuvo divertirse y esto era mi tiempo primero en *STATE*. Yo vi osos y otras animales en el bosque. 
+
+    Yo amo a mi tia mucho y yo quiero ella para volver aquí pero yo sé que ella esta feliz en *CITY* porque ella tiene un esposo y un hijo y su rancho con muchas animals. Ella tiene mas de diez caballos, muchas cabras, y muchas gallinas. 
+
+   En conclusión, mi tia es una persona mas importante en mi vida.
+
+ 

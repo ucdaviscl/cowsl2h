@@ -4,8 +4,14 @@ The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers
 This corpus consists of short essays collected from students enrolled in university-level Spanish courses. Courses SPA 1-24 are L2 Learner courses. Course SPA 31-33 are Heritage Learner courses.
 
 Essays are divided based on the prompts used to collect the data-
+
 famous: Write a text in Spanish about the following subject: "a famous person"
+
 vacation: Write a text in Spanish about the following subject: "your perfect vacation plan"
+
+special: Write a text in Spanish about the following subject: "a special person in your life"
+
+terrible" Write a text about the following subject: "a terrible story"
 
 Each essay prompt is further divided by the quarter in which the data was collected.
 

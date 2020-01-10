@@ -19,6 +19,7 @@ def create_essay_list(directory):
                 out_text = nltk.word_tokenize(out_text)
                 if len(out_text.split()) >= 50:
                     if "special" in filename:
+                        #pass (level, mtld)
                         essays_special.append((out_text, lexdiv.mtld(out_text)))
                     elif "terrible" in filename:
                         essays_terrible.append((out_text, lexdiv.mtld(out_text)))

@@ -16,19 +16,21 @@ def create_essay_list(directory):
                 text = essay.readlines()
                 processed_text = [line.strip() for line in text]
                 out_text = ' '.join(processed_text)
+                out_text = nltk.word_tokenize(out_text)
                 if len(out_text.split()) >= 50:
                     if "special" in filename:
-                        essays_special.append((id, out_text))
+                        essays_special.append((out_text, lexdiv.mtld(out_text)))
                     elif "terrible" in filename:
-                        essays_terrible.append((id, out_text))
+                        essays_terrible.append((out_text, lexdiv.mtld(out_text)))
 
 totals = defaultdict()
-totals_famous = defaultdict()
-totals_vacation = defaultdict()
+totals_special = defaultdict()
+totals_terrible = defaultdict()
 class_count = defaultdict()
-class_count_famous = defaultdict()
-class_count_vacation = defaultdict()
+class_count_special = defaultdict()
+class_count_terrible = defaultdict()
 
+#For this part of the code - update to process terrible and special
 for essay in essays:
   if(essay[0] not in totals):
     if essay[1] > 0:
@@ -43,7 +45,7 @@ for essay in essays:
     if essay[1] > 0:
       class_count[essay[0]] += 1
 
-for essay in essays_famous:
+for essay in essays_special:
   if(essay[0] not in totals_famous):
     if essay[1] > 0:
       totals_famous[essay[0]] = essay[1]
@@ -57,7 +59,7 @@ for essay in essays_famous:
     if essay[1] > 0:
       class_count_famous[essay[0]] += 1
 
-for essay in essays_vacation:
+for essay in essays_terrible:
   if(essay[0] not in totals_vacation):
     if essay[1] > 0:
       totals_vacation[essay[0]] = essay[1]

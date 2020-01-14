@@ -1,3 +1,5 @@
+#Portions of code taken from FreeLing examples by Lluís Padró and Evgeny Stanilovsky
+
 import freeling
 import sys, io, glob, os
 import string

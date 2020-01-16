@@ -15,6 +15,10 @@ terrible" Write a text about the following subject: "a terrible story"
 
 Each essay prompt is further divided by the quarter in which the data was collected.
 
+Annotations: we have annotated a subset of essays for gender/number agreement and usage of "a personal." These were chosen based on specific research questions, and we encourage fellow researchers to add to our annotations. Please see the included annotation scheme.
+
+Corrections: We have also included corrected essays for S17_vacation, S17_famous, and F17_famous. We are in the process of correcting additional essays and will update the corpus as these are ready to be made public.
+
 Metadata:
 Metadata files consist of the following data items separated by "|||":
 1) Course enrolled

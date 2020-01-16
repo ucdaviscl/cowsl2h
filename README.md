@@ -1,7 +1,7 @@
-# cowsl2h
-The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers
+# COWSL2H
+## The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers
 
-This corpus consists of short essays collected from students enrolled in university-level Spanish courses. Courses SPA 1-24 are L2 Learner courses. Course SPA 31-33 are Heritage Learner courses.
+The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers (COWSL2H) consists of short essays collected from students enrolled in university-level Spanish courses. Courses SPA 1-24 are L2 Learner courses. Course SPA 31-33 are Heritage Learner courses.
 
 Essays are divided based on the prompts used to collect the data-
 

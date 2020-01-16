@@ -1,7 +1,7 @@
-# cowsl2h
-The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers
+# COWSL2H
+## The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers
 
-This corpus consists of short essays collected from students enrolled in university-level Spanish courses. Courses SPA 1-24 are L2 Learner courses. Course SPA 31-33 are Heritage Learner courses.
+The UC Davis Corpus of Written Spanish, L2 and Heritage Speakers (COWSL2H) consists of short essays collected from students enrolled in university-level Spanish courses. Courses SPA 1-24 are L2 Learner courses. Course SPA 31-33 are Heritage Learner courses.
 
 Essays are divided based on the prompts used to collect the data-
 
@@ -11,9 +11,13 @@ vacation: Write a text in Spanish about the following subject: "your perfect vac
 
 special: Write a text in Spanish about the following subject: "a special person in your life"
 
-terrible" Write a text about the following subject: "a terrible story"
+terrible: Write a text about the following subject: "a terrible story"
 
 Each essay prompt is further divided by the quarter in which the data was collected.
+
+Annotations: We have annotated a subset of essays for gender/number agreement and usage of "a personal." These annotation targets were chosen based on specific research questions. We encourage fellow researchers to add to our annotations. Please see the included annotation scheme for further information.
+
+Corrections: We have also included corrected essays for S17_vacation, S17_famous, and F17_famous. We are in the process of correcting additional essays and will update the corpus as these are ready to be made public.
 
 Metadata:
 Metadata files consist of the following data items separated by "|||":

@@ -1,12 +1,14 @@
-import csv, io, nltk, sys, glob, os
+import nltk, sys, glob, os
 from collections import defaultdict
 from matplotlib import pyplot
 import lexical_diversity as lexdiv
 from pos_tagging import align_metadata
 
+#init lists to hold tuples of (id, text, mtld_score) for each essay
 essays_special_init = list()
 essays_terrible_init = list()
 
+#iterate through files in data directory and create list of tuples with essay info
 def create_essay_list(directory):
     file_list = [filename for filename in glob.iglob(directory + '/**', recursive=True)]
     for filename in file_list:
@@ -24,19 +26,21 @@ def create_essay_list(directory):
                     elif "terrible" in filename:
                         essays_terrible_init.append((id, out_text, lexdiv.mtld(out_text)))
 
-#Create metadict and essay list for special essay
+#Create metadata dict and essay list for special essay
 #argv[1] is special directory
 meta_dict_special = align_metadata.create_metadata_dict(sys.argv[1])
 create_essay_list(sys.argv[1])
-#Create metadict and essay list for terrible essay
-#argv[1] is terrible directory
+#Create metadata dict and essay list for terrible essay
+#argv[2] is terrible directory
 meta_dict_terrible = align_metadata.create_metadata_dict(sys.argv[2])
 create_essay_list(sys.argv[2])
 
-essays = list()
+#init lists to hold paired (level, mtld) tuples
 essays_special = list()
 essays_terrible = list()
 
+#pair the essay with level from mtld dict
+#add to essay_special list
 for essay in essays_special_init:
     level = 0
     if meta_dict_special[essay[0]][0][4:] not in ["", '\n']:
@@ -44,6 +48,7 @@ for essay in essays_special_init:
     mtld = essay[2]
     essays_special.append((level, mtld))
 
+#do the same for essay_terrible
 for essay in essays_terrible_init:
     level = 0
     if meta_dict_terrible[essay[0]][0][4:] not in ["", '\n']:
@@ -51,8 +56,10 @@ for essay in essays_terrible_init:
     mtld = essay[2]
     essays_terrible.append((level, mtld))
 
+#put both together to create combined list
 essays = essays_special + essays_terrible
 
+#init dicts for totals by level
 totals = defaultdict()
 totals_special = defaultdict()
 totals_terrible = defaultdict()
@@ -60,7 +67,7 @@ class_count = defaultdict()
 class_count_special = defaultdict()
 class_count_terrible = defaultdict()
 
-#For this part of the code - update to process terrible and special
+#add up everything by level - sum mltd and keep track of num essays per level
 for essay in essays:
   if(essay[0] not in totals):
     if essay[1] > 0:
@@ -103,6 +110,7 @@ for essay in essays_terrible:
     if essay[1] > 0:
       class_count_terrible[essay[0]] += 1
 
+#calc avg mtld for each level
 SPA1 = totals[1]/class_count[1]
 SPA2 = totals[2]/class_count[2]
 SPA3 = totals[3]/class_count[3]
@@ -114,6 +122,7 @@ SPA31 = totals[31]/class_count[31]
 SPA32 = totals[32]/class_count[32]
 SPA33 = totals[33]/class_count[33]
 
+#same for special prompt
 SPA1_special = totals_special[1]/class_count_special[1]
 SPA2_special = totals_special[2]/class_count_special[2]
 SPA3_special = totals_special[3]/class_count_special[3]
@@ -125,6 +134,7 @@ SPA31_special = totals_special[31]/class_count_special[31]
 SPA32_special = totals_special[32]/class_count_special[32]
 SPA33_special = totals_special[33]/class_count_special[33]
 
+#same for terrible prompt
 SPA1_terrible = totals_terrible[1]/class_count_terrible[1]
 SPA2_terrible = totals_terrible[2]/class_count_terrible[2]
 SPA3_terrible = totals_terrible[3]/class_count_terrible[3]

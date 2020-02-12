@@ -99,12 +99,30 @@ def printDepTree(dtree, depth):
 ## -------------    MAIN PROGRAM  ---------------
 ## ----------------------------------------------
 
+## Check whether we know where to find FreeLing data files
+if "FREELINGDIR" not in os.environ :
+   if sys.platform == "win32" or sys.platform == "win64" : os.environ["FREELINGDIR"] = "C:\\Program Files"
+   else : os.environ["FREELINGDIR"] = "/usr/local"
+   print("FREELINGDIR environment variable not defined, trying ", os.environ["FREELINGDIR"], file=sys.stderr)
+
+if not os.path.exists(os.environ["FREELINGDIR"]+"/share/freeling") :
+   print("Folder",os.environ["FREELINGDIR"]+"/share/freeling",
+         "not found.\nPlease set FREELINGDIR environment variable to FreeLing installation directory",
+         file=sys.stderr)
+   sys.exit(1)
+
+
+# Location of FreeLing configuration files.
+DATA = os.environ["FREELINGDIR"]+"/share/freeling/";
+
 # set locale to an UTF8 compatible locale
 freeling.util_init_locale("default");
 
 # get requested language from arg1, or English if not provided
+LANG = "es"
 lang = "es"
-op= pyfreeling.maco_options(LANG);
+
+op= freeling.maco_options(LANG);
 op.set_data_files( "",
                    DATA + "common/punct.dat",
                    DATA + LANG + "/dicc.src",
@@ -180,12 +198,13 @@ def process_file(essay_lst, x):
 
         # do whatever is needed with processed sentences
         if x == 2:
-          essays_special_tagged.append((id, ProcessSentences(ls)))
+          essays_vacation_tagged.append((id, ProcessSentences(ls)))
         elif x == 3:
-          essays_terrible_tagged.append((id, ProcessSentences(ls)))
+          essays_famous_tagged.append((id, ProcessSentences(ls)))
 
 def create_essay_list(directory):
     file_list = [filename for filename in glob.iglob(directory + '/**', recursive=True)]
+    print(file_list)
     for filename in file_list:
         if os.path.isfile(filename) and "id.txt" not in filename and "metadata" not in filename:
             id = filename.split('/')[-1].split('.')[0]
@@ -196,14 +215,16 @@ def create_essay_list(directory):
                 if len(out_text.split()) >= 50:
                     if "famous" in filename:
                         essays_famous.append((id, out_text))
-                    #elif "vacation" in filename:
-                    #    essays_vacation.append((id, out_text))
+                    elif "vacation" in filename:
+                        essays_vacation.append((id, out_text))
 
 directory = os.getcwd() + "/" + sys.argv[1]
+#print debugging
+print(directory)
 create_essay_list(directory)
 
-process_file(essays_special,2)
-process_file(essays_terrible,3)
+process_file(essays_vacation,2)
+#process_file(essays_terrible,3)
 
 #save the data sets to file for futher use
 pickle.dump(essays_vacation_tagged, open('essays_vacation_tagged.pickle', 'wb'))

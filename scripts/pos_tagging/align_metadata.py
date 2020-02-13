@@ -9,9 +9,10 @@ def create_metadata_dict(directory):
     for filename in file_list:
         if os.path.isfile(filename) and "metadata.txt" in filename:
             id = filename.split('/')[-1].split('.')[0]
+            quarter = filename.split('/')[-3]
             with open(filename) as input:
                 metadata = input.readlines()[0].strip().split("|||")
-                out_dict[id] = metadata
+                out_dict[id] = (metadata,quarter)
     return out_dict
 
 
@@ -25,9 +26,10 @@ if __name__ == "__main__":
     for item in tagged_data:
         id = item[0]
         tagged_text = item[1]
-        metadata = meta_dict[id]
+        metadata = meta_dict[id][0]
+        quarter = meta_dict[id][1]
         level = int(metadata[0][4:]) if (metadata[0] not in "") else 0
-        out_tuple = (level, tagged_text)
+        out_tuple = (id, quarter, level, tagged_text)
         print(out_tuple)
         out_list.append(out_tuple)
 

@@ -99,6 +99,22 @@ def printDepTree(dtree, depth):
 ## -------------    MAIN PROGRAM  ---------------
 ## ----------------------------------------------
 
+## Check whether we know where to find FreeLing data files
+if "FREELINGDIR" not in os.environ :
+   if sys.platform == "win32" or sys.platform == "win64" : os.environ["FREELINGDIR"] = "C:\\Program Files"
+   else : os.environ["FREELINGDIR"] = "/usr/local"
+   print("FREELINGDIR environment variable not defined, trying ", os.environ["FREELINGDIR"], file=sys.stderr)
+
+if not os.path.exists(os.environ["FREELINGDIR"]+"/share/freeling") :
+   print("Folder",os.environ["FREELINGDIR"]+"/share/freeling",
+         "not found.\nPlease set FREELINGDIR environment variable to FreeLing installation directory",
+         file=sys.stderr)
+   sys.exit(1)
+
+
+# Location of FreeLing configuration files.
+DATA = os.environ["FREELINGDIR"]+"/share/freeling/";
+
 # set locale to an UTF8 compatible locale
 freeling.util_init_locale("default");
 
@@ -180,9 +196,9 @@ def process_file(essay_lst, x):
 
         # do whatever is needed with processed sentences
         if x == 2:
-          essays_special_tagged.append((id, ProcessSentences(ls)))
+          essays_vacation_tagged.append((id, ProcessSentences(ls)))
         elif x == 3:
-          essays_terrible_tagged.append((id, ProcessSentences(ls)))
+          essays_famous_tagged.append((id, ProcessSentences(ls)))
 
 def create_essay_list(directory):
     file_list = [filename for filename in glob.iglob(directory + '/**', recursive=True)]
@@ -200,10 +216,11 @@ def create_essay_list(directory):
                     #    essays_vacation.append((id, out_text))
 
 directory = os.getcwd() + "/" + sys.argv[1]
+print(directory)
 create_essay_list(directory)
 
-process_file(essays_special,2)
-process_file(essays_terrible,3)
+process_file(essays_vacation,2)
+#process_file(essays_terrible,3)
 
 #save the data sets to file for futher use
 pickle.dump(essays_vacation_tagged, open('essays_vacation_tagged.pickle', 'wb'))

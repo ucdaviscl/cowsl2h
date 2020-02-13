@@ -120,7 +120,7 @@ freeling.util_init_locale("default");
 
 # get requested language from arg1, or English if not provided
 lang = "es"
-op= pyfreeling.maco_options(LANG);
+op= freeling.maco_options(LANG);
 op.set_data_files( "",
                    DATA + "common/punct.dat",
                    DATA + LANG + "/dicc.src",

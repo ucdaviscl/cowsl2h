@@ -120,6 +120,7 @@ freeling.util_init_locale("default");
 
 # get requested language from arg1, or English if not provided
 lang = "es"
+LANG = "es"
 op= freeling.maco_options(LANG);
 op.set_data_files( "",
                    DATA + "common/punct.dat",

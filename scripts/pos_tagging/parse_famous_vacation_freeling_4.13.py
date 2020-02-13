@@ -205,13 +205,14 @@ def create_essay_list(directory):
     for filename in file_list:
         if os.path.isfile(filename) and "id.txt" not in filename and "metadata" not in filename:
             id = filename.split('/')[-1].split('.')[0]
+            quarter = filename.split('/')[-3]
             with open(filename) as essay:
                 text = essay.readlines()
                 processed_text = [line.strip() for line in text]
                 out_text = ' '.join(processed_text)
                 if len(out_text.split()) >= 50:
                     if "famous" in filename:
-                        essays_famous.append((id, out_text))
+                        essays_famous.append((id, quarter, out_text))
                     #elif "vacation" in filename:
                     #    essays_vacation.append((id, out_text))
 

@@ -218,7 +218,7 @@ def create_essay_list(directory):
                     if "famous" in filename:
                         essays_famous.append((id, quarter, out_text))
                     elif "vacation" in filename:
-                        essays_vacation.append((id, out_text))
+                        essays_vacation.append((id, quarter, out_text))
 
 directory = os.getcwd() + "/" + sys.argv[1]
 #print(directory)

@@ -1,0 +1,9 @@
+Hola, me llamo *FIRST_NAME* *LAST_NAME* y esta es sobre mi.  Tengo *AGE* años y soy un estudiante de la universidad de *UNIVERSITY*. Es mi primero año en este escuela. Soy de *CITY*, *STATE* y también nació en *CITY*, *STATE*. *CITY* es cerca de *CITY*. Durante los fines de semanas yo viajo a mi casa para comida y visitar mis padres. Yo extraño ellos mucho. También todos mis amigas viven en *CITY*. Yo también extraño ellas muchas. De todos mis amigas yo soy la sola persona que va a Universidad en otro ciudad. 
+
+Yo tengo pelo rizado y negro. Mi pelo no es muy largo pero no es corto, es en el medio. Pero esperanzo que mi pelo ser largo en el futuro. Soy delgada como mi madre. Pero voy al gimnasio durante la semana. Quiero ser más fuerte. Pero necesito ir al gimnasio más tiempos. Soy un poco alto, pero no mucho. Mi nariz y mi sonrisa son grandes. Mis ojos son marrones. Y yo soy moreno. 
+
+Yo tengo dos hermanos y dos hermanos. Soy la menor que todos. Todos mis hermanos termino la universidad. Mi hermana *FIRST_NAME* era una estudiante de *UNIVERSITY* en el pasado. Ella pienso yo voy a este universidad solamente porque quiero ser como ella, pero no es verdad. Todos mis hermanos son inteligentes. 
+
+En mi tiempo libre yo juego vóleibol o miro Netflix. Soy una jugadora de vóleibol por muchos años. Estoy triste porque no puedo jugar vóleibol en *CITY*. No tengo amigos que quieren jugar. En colegio yo juego mucho pero  en este momento no juego mucho. También me gusta naturaleza mucho. Viaje a Lake Tahoe, Yosemite, o otros lugares dónde puedo caminar. Todo mi familia le gustan caminar. Es mi actividad favorito, especialmente cuando hay bien tiempo. 
+
+¡Gracias por escuchar!

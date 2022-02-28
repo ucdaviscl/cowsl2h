@@ -1,0 +1,27 @@
+Una carta para mi amiga.
+
+ 
+
+Hola *FIRST_NAME*,
+
+ 
+
+¿Que tal amiga? ¡Yo quiero a leo cómo estás! Porque es una carta, yo escribiré de mí. Yo fue nací en la ciudad de *CITY* *CITY* en *STATE*. Ahora, yo tengo *AGE* años. Mi familia es de *PLACE*, pero mis padres vinieron a los Estados Unidos en 1992, *NUMBER* años antes de yo nací. *PLACE* está país cerca del mar Mediterráneo. Está hermosa y verde y tene mucha cultura, pero es triste porque tuvo luchós con *PLACE*.
+
+En mi familia yo tengo una madre, un padre, y tres hermanos, dos chicas y un chico. En la casa, con mis hermanos hablamos el lenguaje inglés, y con nuestros padres, hablamos el lenguaje arábico, y nuestro respondemos en inglés, pero mis padres son buenos en inglés.
+
+Yo voy a la escuela en la Universidad de *UNIVERSITY*, *UNIVERSITY* *UNIVERSITY*. Cuando yo tengo escuela, yo vivo cerca de la escuela, pero en el verano, yo vivo en el *CITY* *CITY* *CITY*. Es cerca de la escuela, pero montañas entre el valle y la escuela. En la universidad, yo estudio ciencia medioambiental, y yo quiero ir a la escuela de posgrado. Escuela está difícil, pero yo aprendo mucho y conoce muchas personas buenas.
+
+A mi me gusta muchas cosas. A mi me gusta jugar deportes en el parque, como fútbol, tenis, correr, fútbol americano, y mas. También a mi me gusta los videojuegos, y a ver la tele. A mi me gusta a recorrer, pero los viajes costan mucho dinero. A mi me gusta probo cosas nuevas.
+
+Ahora, yo tengo metas para el año nuevo. Yo quiero a toma mas tiempo con mi familia, porque ellos están personas muy muy buenas y yo encanta ellos mucho. También yo quiero a hacerlo bien en la escuela, porque el saber es muy importante.
+
+ 
+
+Yo escribí mucho de mí, ahora yo quiero leo mucho de tu. ¡Adiós *FIRST_NAME*!
+
+ 
+
+Hasta luego,
+
+*FIRST_NAME*

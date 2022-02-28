@@ -1,0 +1,7 @@
+En los Estados Unidos, hay muchas personas. Hay una nina quien vive en una casa pequena. Ella se llama *FIRST_NAME*. Ella esta siempre contenta y ella tiene *AGE* anos. Ella va la escuela los lunes y los miercoles. Ella ama su esposo y ella esta embarazada con su hijo primero. Su esposo se llama *FIRST_NAME*. Su esposo tiene *AGE* anos y ellos viven juntos. El esta contenta con su vida y el trabaja a una empresa constructora.
+
+Cuando sus hijo ha nacido, ellos celebrarán con sus familia. A *FIRST_NAME* su familia esta muy contenta sobre el bebe. El bebe sera en una familia muy amorosa. *FIRST_NAME* y *FIRST_NAME* tienen una casa pequena, pero ellos hacen espacio para el bebe. Ellos trabajan duro para sus familia pequena, ellos esperan para una casa grande y una familia grande en el futuro.
+
+El bebe nacio en *BIRTH_DATE* de *BIRTH_DATE* y se llama *FIRST_NAME*. El es un bebe sano. Su familia lo ama. El tiene pelo moreno y los ojos azules. Su padres llevarlo a casa y el tiene una habitación para él. La habitacion es verde y azul. Hay nubes en la pared. Que hermoso lugar para dormir!
+
+Su familia ama el todas las dias. Cuando el crece, el es popular y bonito. El tiene los amigos muchos. El tiene un novio tambien. Su familia siempre ama el y ellos miran el casarse en sus aniversario. *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME* viven felices para siempre! Que hermosa historia! Todas personas estas contenta con sus familia y vidas.

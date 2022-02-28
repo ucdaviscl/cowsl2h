@@ -1,0 +1,5 @@
+¡Hola, amigos! Mi nombre es *FIRST_NAME* y mi apellido es *LAST_NAME*. Mi dirección de correo electrónico es [*EMAIL*] (*EMAIL*) y mi número de teléfono es *NUMBER*. Tengo *AGE* años. Mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Soy de *CITY*, *PLACE*, pero vivo en *CITY*, *STATE* para estudio en Universidad de *UNIVERSITY*, *UNIVERSITY*. Me estudio ciencias de biología y gusto mucho mi especialización. Me encanta medicina y psicología también. Este cuarto, me tengo tres cursos: biología, química, y español.
+
+Soy estudiosa, sedentaria, y tímida. Ahora estoy ocupada, nerviosa, y cansada con mi tarea. También tengo muy hambre, sed, y sueño. Me encanta la cocina y la lectura. Mi comida favorida es la comida de *PLACE*. Siempre cocinar el almuerzo y la cena en mi apartamento.
+
+Cuando estoy en *CITY*, extrañar mucho mi familia y todo mi amigo porque ellos están en *CITY*. Todo mi compañero de cuarto estoy en *CITY* porque COVID-19. Ahora estoy muy aburrida.

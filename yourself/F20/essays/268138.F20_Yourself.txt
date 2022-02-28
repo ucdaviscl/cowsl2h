@@ -1,0 +1,5 @@
+*I am in SPA 1*
+
+Hola! Yo soy de *CITY* *CITY* y soy *AGE* años. Mi fecha de nacimiento es *BIRTH_DATE* de *BIRTH_DATE*. Yo soy cómica, generosa, y inteligente. Ademas, yo estoy ocupada y nerviosa porque estoy tomando clases difíciles. Ahora tengo sueno y hambre. Ahora, mi especialización es la economía, pero estoy pensando en elegir una especialización diferente. Actualmente no vivo en el campus, ya que me quedare en casa este semestre. Durante la escuela secundaria, jugaba tenis y estuve equipo "*PLACE* *PLACE*" durante cuatro anos. Fui el capitán del equipo durante mi tercer y último año. Hice muchas amigas mientras jugaba al tenis. 
+
+Yo le gusta usar Instagram y Twitter para hablar con amigas. También, me gusta ir a la playa y salir con amigas. Mis programas de tv favoritos son "Parks and Recreation", "Community", y "Haikyuu". Estos programas son muy divertidos y agradables de ver. También me gusta hornear postres y hacer manualidades.

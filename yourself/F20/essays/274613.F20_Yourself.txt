@@ -1,0 +1,7 @@
+Me llamo *FIRST_NAME*, yo tengo *AGE* años. Yo vivo en *CITY*, *STATE* y yo soy un guia de las montañas por mi trabajo. Yo soy alto, delgado y tengo pelo moreno y verde ojos. Me gusta correr mucho, escalar rocas, y esquí en invierno. Me gustó divertido voleibol en escuela secundario, pero mis amigos escalar rocas y esquí ahora.
+
+Mi familia y mis amigos es muy importante para mi. Mis amigos y yo hablamos todos los días. *FIRST_NAME*, mi mejor amigo, es inteligente y él vive en *CITY*. *FIRST_NAME* habla español tambien, para él es muy bien y yo es estudiante con poco español. Mi familia es mi padre *FIRST_NAME*, mi madre *FIRST_NAME, y mi hermana *FIRST_NAME*. Yo tengo una novia fantástica también, ella nombre es *FIRST_NAME*.
+
+Mi padre *FIRST_NAME* es alto y fuerte, *FIRST_NAME* tiene *AGE* y *AGE* años y es muy atlético. Mi padre es cómico y pacífico pero él es muy trabajador y ocupado. Mi madre *FIRST_NAME* es enfermas, pero ella sonríe mucho y es muy gracioso. Todas en mi familia es muy inteligente. Mi madre tiene cocinar por la familia, y habla con mi hermana y yo. Mi hermana *FIRST_NAME* es mi amigo también. *FIRST_NAME* comprenda ciencias muy complicada, y ella es un doctor. *FIRST_NAME* vive en *CITY* con ella novio. Ella tiene dos gatos y gusta leer mucho libros. Mi novia *FIRST_NAME* es muy bonita y interesante. Ella es un maestra por niños y ella es muy comico.
+
+Yo no escribo en español mucho, es dificil para mi.

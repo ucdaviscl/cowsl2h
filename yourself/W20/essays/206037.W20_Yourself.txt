@@ -1,0 +1,11 @@
+¡Hola! Me llamo *FIRST_NAME*. Tengo *AGE* años y soy una estudiante a la University of *UNIVERSITY*, *UNIVERSITY*. Soy de *STATE*, pero mi lugar de nacimiento es *STATE*. Mi fecha de nacimiento es en *BIRTH_DATE*. Tengo el pelo moreno y media y los ojos verde. No soy alto o bajo; soy media. Ahora, estoy cansado pero bien. Estoy feliz porque es la fin de semana! 
+
+Mi especialización es inglés. Mi clases son dos clases de inglés, español, y una clase para ayudar estudiantes en escuela secundario con inglés. Mis clases son bien. Cuando no estoy a clases, me gusta pasar tiempo con mi amiga. Estudiamos, hablaríamos, comemos. Nuestro comida favorita es pizza y salemos para pizza muchos.
+
+También, me gusta correr y escribir. Pero, paso muchos tiempo hace mi tarea para mis clases. 
+
+Vive en *CITY* con mis tres amigas. Son muy simpáticas y muy trabajador. Estudiamos a noches y escuchamos de la música. 
+
+En mi familia, hay seis personas: mis dos padres y mis dos hermanos y mi sobrina. Soy le menor, y mis dos hermanos tienen *AGE* años y *AGE* años. Porque nuestro edades, parece una hijo único. Mis padres vive en una ciudad cerca *CITY* — es la hora [away]. Mi mamá es muy simpática, y mi papá también. Mis hermanos son muy, muy inteligentes. Un es un escritorio en *STATE**, y mi hermano otre vele bicicletas en CITY*. Mi sobrina tiene *AGE* años y vive en *STATE* con mi hermano, su papá. 
+
+Ahora, dijo "Adios" porque tengo 250; muchos gracias!

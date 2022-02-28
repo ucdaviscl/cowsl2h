@@ -1,0 +1,1 @@
+Me llamo es *FIRST_NAME*. Tengo una hermana y uno padre y una madre. Tengo pelo morena y ojos café. Tengo un perro. Vivo en *CITY* con mi madre y padre. Mi hermana vive en *CITY*. Tengo primas solo. Mi primas llaman es *FIRST_NAME* y *FIRST_NAME*. Tengo *AGE* años. En la escuela secundaria, juego fútbol. 

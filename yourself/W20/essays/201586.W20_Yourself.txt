@@ -1,0 +1,13 @@
+Hola, me llamo *FIRST_NAME*. Tengo *AGE* años y yo tengo pelo rubio y ojos azules. Yo soy alta y quiero ser amable. Mi actividad favorita es cantar. Voy a decirte sobre mi familia, incluso mi madre, mi hermana, mi abuela materna, mi perra *FIRST_NAME*, mi hermano, y mi padre.
+
+Mi mamá se llama *FIRST_NAME*. Mi madre tiene ojos azules y pelo moreno. Tiene *AGE* y nue*AGE*ve años. Ella es alta y bonita. Mi madre es mi mejor amiga desde hace *NUMBER* anos. Ella simpática y siempre me hace feliz. Mi mamá le gusta comer y esquiar. Le gusta mucho estar con su familia.
+
+Mi hermana menor se llama *FIRST_NAME*. Ella tiene *AGE* años. Tiene ojos azules y pelo moreno. Se parece a mi mamá. *FIRST_NAME* le gusta cantar y jugar la guitarra. *FIRST_NAME* es tímida pero muy bonita.
+
+Mi perra *FIRST_NAME* es comica y morena. Ella es un labrador. Le gusta jugar con mi familia y yo. *FIRST_NAME*  siempre jugar con su hermano *FIRST_NAME* . *FIRST_NAME* es un labrador también, pero el es negro. Me encanta *FIRST_NAME* y *FIRST_NAME* mucho. 
+
+Mi abuela materna se llama *FIRST_NAME* pero la llamo *FIRST_NAME* . *FIRST_NAME*  tiene *AGE* años pero ella todavía parece joven. Ella tiene pelo rubio y ojos azules como yo. Pero mi abuela es muy baja. *FIRST_NAME* es muy comica y es persona amable. Le gusta cocinar y estar con su familia especialmente mi abuelo, *FIRST_NAME*. 
+
+Mi hermano menor se llama *FIRST_NAME* y el tiene *AGE* años. Andrew tiene ojos azules y pelo moreno como toda mi familia excepto yo. El es joven y energizado. El es un poco alto pero esta creciendo. Le gusta jugar beisbol mucho y quiere jugar en el ligas mayores. 
+
+Mi padre se llama *FIRST_NAME* y el tiene *AGE* y *AGE* años. Mi padre es muy alto y simpático. Me encanta mi padre mucho. Mi padre tiene ojos azules y pelo moreno y le gusta entrenar el beisbol. Mi padre y mi hermano juegan beisbol juntos. 

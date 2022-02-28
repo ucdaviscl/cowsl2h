@@ -1,0 +1,19 @@
+Hola, como estás?
+
+Soy de *CITY*, pero yo vivo en *CITY*. Me no gusta *CITY*, pero me gusta *CITY*. Mi color favorita es azul. 
+
+Estoy en mi cuarto ahora. Estoy muy abburdio. 
+
+Yo soy inteligente, athletica, y simpatica. Pero algunas veces soy no simpatica. 
+
+Yo gusta mi familia. En mi es cinco personas. En mi familía es mi mama, mi papá, my hermana, y mi hermano, y yo. Pero algunas veces no me gusta mi familia. 
+
+Mi cumpleaños es *BIRTH_DATE* de *BIRTH_DATE*. Me gusta *BIRTH_DATE*, es muy simpatica. 
+
+Mi papá cumpleaños es *BIRTH_DATE* de *BIRTH_DATE*. My mamá cumpleaños es *BIRTH_DATE* de *BIRTH_DATE*. Mi hermana cumpleaños es *BIRTH_DATE* de *BIRTH_DATE*. Mi hermano cumpleaños es *BIRTH_DATE* de *BIRTH_DATE*. Cumpleaños es muy divertido. Me gustan cumpleaños. 
+
+Me gusta color rojo. Rojo is muy simpatica. Pero no me gusta naranja. Naranja es no simpatica. 
+
+Me gusta a la playa. La playa es muy divertido.
+
+ 

@@ -1,0 +1,9 @@
+Hola, me llamo *FIRST_NAME*. Yo soy una mujer (ella, ellas) y un estudiante de *UNIVERSITY* *UNIVERSITY* (es mi primer año). Estoy estudiando psicología con un énfasis en biología. Me encanta las ciencias sociales y también las ciencias que tratan con la medicina. Yo quiero ser una doctora en el futuro y trabaja con los niños. 
+
+Tengo *AGE* años y mi cumpleaños es el *BIRTH_DATE* de *BIRTH_DATE*. Mi papá está muerto pero mi mamá está en *CITY* *CITY* que de donde soy. Porque yo vivo cerca la playa, me encanta el mar y nadando con mis amigos y mi familia. Yo extraño la playa cuando estoy en la escuela. 
+
+Me gusta hacer muchas actividades como leyendo, bailando, y escuchando música. En los fines de semana, está haciendo estas actividades con mis amigos. De vez en cuando, voy al gimnasio para hacer ejercicio. Me gusta bailar. Yo quiero aprender a bailar la salsa.
+
+Tengo dos hermanos mayores. Yo soy el bebé de la familia. Mi papà murió cuando tengo *AGE* años. Mi mamá es una mujer muy fuerte y la amo mucho. Mis hermanos tienen hijos y por lo tanto, yo soy una tía. Mi hermano, *FIRST_NAME*, tiene tres hijos que son un trillizo. Qué locura! Mi otro hermano, *FIRST_NAME*, tiene dos hijos. Me encanta mis sobrinos y mi sobrina. Los niños son muy guapos y graciosos. 
+
+Mi familia es una aspecto muy importante en mi vida. También, mis amigos son importante para mi. Soy muy amable y me preocupo por muchos personas, especialmente las personas que son importantes. 

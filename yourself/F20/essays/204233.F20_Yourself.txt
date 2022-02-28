@@ -1,0 +1,5 @@
+ Soy *STATE*. Mi la ciudad es *CITY* *CITY*. Su cumpleaños *BIRTH_DATE* de *BIRTH_DATE*. Ella tengo *AGE* años. Mi el calendario de eventos es muy occupada.  No me gusta la red social.  Mi le gusta la foto, el video y madar unas mensajes. Mi la escuela secundarria es *PLACE* *PLACE*. Mi la universidad es *UNVERSITY* *UNIVERSITY*.  
+
+ Yo soy activa, aventurera, generoso y estudioso.  Estoy muy contento y emocionado. Tengo muchos amigos.  Estudia economia y quiere ser médica. Mi especialización muy facil. Este semestre tengo cuatros clases: español, derecho, filosofía y química. Son muy interesantes y aprendo mucho. Trabajo con el profesor en el laboratorio.  Estoy muy emocionado con las posibilidades para mi futuro como medicina. Me gusta el arte, la filosofía, y la música.
+
+Soy bajita, muy guapa y lleva el pelo largo y rizado. Soy una persona muy sana. Mi siempre cocina verduras de temporada, pescado al vapor y ensaladas ricas.  Mi también le gustan los perros.  Mi encanta mi perro es *FIRST_NAME*.   

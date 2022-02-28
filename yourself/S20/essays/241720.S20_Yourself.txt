@@ -1,0 +1,9 @@
+Hola mi nombre es *FIRST_NAME* *LAST_NAME*. Yo soy *PLACE*, pero naci en *STATE* en los Estados Unidos. Mi mama y papa son de *PLACE*.  Nunca aprendí a leer o escribir en español. Me gusta yoga, estudiar, y leer. Yo soy adventurera, generosa, y timida. Yo tengo un perro, se llama *FIRST_NAME*. El es muy activo y es muy contento. El siempre tiene hambre. Yo tanbien siempre tengo hambre.  Mi favorita comida es sushi.
+
+Estudio en la universidad de *UNIVERSITY* *UNIVERSITY*. Mi  especialización es Quimica de Pharmaceuticals (Pharmaceutical Chemistry). Me encanta mi universidad.
+
+Yo vivo en la cuidad de *CITY*, pero no me gusta *CITY*. Es muy aburrido y sucio. Yo trajabo  en un restuarante y en un hospital. Soy waitress en *PLACE* *PLACE*. Tiene pizza muy buenas. Y yo trabajo por gratis en el hospital de *PLACE* en *CITY*. 
+
+ 
+
+¡Hasta pronto!

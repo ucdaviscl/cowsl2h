@@ -1,0 +1,1 @@
+Mi nombre es *FIRST_NAME* *LAST_NAME*. Yo naci en *CITY* *STATE*, pero mis padres imigraron de un pueblo llamado *CITY* *STATE*. Mi padre vino a los Estados Unidos a los *AGE* anos y empezo su carera e 

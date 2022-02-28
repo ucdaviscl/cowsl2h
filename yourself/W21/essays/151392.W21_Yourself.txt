@@ -1,0 +1,11 @@
+* Me llamo *FIRST_NAME* *LAST_NAME*. Tengo *AGE* anos. Tengo pelo moreno y largo. Soy alta, y estudiosa Veo televisión y hago arte. Yo era nadadora pero el ano pasado fue mi último año
+
+* Mi madre se llama  *FIRST_NAME* *LAST_NAME*. Tiene *AGE* y *AGE* anos. Mi madre tiene pelo moreno y Es baja y pequena. Tambien, mi madre es generosa. Ella jardines en la escuela intermedia, y enseña sobre plantas a las estudiantes
+
+* Mi padre se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* y *AGE* anos Mi padre tiene pelo rubio. Es muy alto y cómico, y él sonrie mucho. Mi padre es inteligente y trabajador. el es un doctor de  *PLACE* *PLACE*
+
+* Mi hermano se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* anos. Mi hermano tiene pelo moreno y tiene las pecas. Es alto y fuerte, y atlético. Él es una atleta, y nada para la Universidad de *UNIVERSITY*. el estudia la computación.
+
+* Mu hermano menor se llama *FIRST_NAME* *LAST_NAME*. Tiene *AGE* anos. Mi hermano tiene pelo moreno y rizado. Es alto, fuerte, y  atlético. Tambien, él es una atleta, y hace  natación. Él es en el ultimo ano en la escuela secundaria. Le gustan la biología y el diseño gráfico
+
+ 

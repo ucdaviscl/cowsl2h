@@ -1,0 +1,9 @@
+Yo tengo *AGE* y *AGE* años.  Su cumpleaños es *BIRTH_DATE* *BIRTH_DATE* *BIRTH_DATE* *BIRTH_DATE* . Yo no tengo el esposo y tengo dos parentos y cinco hermnos y hermanas. Mi padre *AGE* y *AGE* y mi madre *AGE* y *AGE*.  Las hermanas nombres son *FIRST_NAME*, *FIRST_NAME*, *FIRST_NAME*, y *FIRST_NAME*.  *FIRST_NAME*, *FIRST_NAME* y *FIRST_NAME* tienen marrón rizado pelo. Yo tengo uno hermano. *FIRST_NAME* tiene *AGE* anos, *FIRST_NAME* *AGE* y *AGE* anos, *FIRST_NAME* tiene *AGE* anos y *FIRST_NAME* tiene *AGE* anos. Mi hermano nombre es *FIRST_NAME*.  *FIRST_NAME* es *AGE* y *AGE*.  Yo quiero mi familia por que ellos son grasioso.   
+
+ 
+
+Mi nationalidad es *PLACE*.  Yo soy muy atlético, cómico, talentoso, y guapa.   Yo tengo rizado pelo.  Yo prefiero mi rizado pelo.  Yo soy muy fuerte. Yo admiro mi parentos por que mi padre y madre tiene fama y escoge ayundar su familia y su aficionados.  Yo entiendo muchos personas admiran mi parentes y mi parentas vive buenas vida.   Yo sabe contar y mi hermans sabes cantar.  En su tiempo libre, mi gusta hacer ejercicio, bailar y cocinar. 
+
+ 
+
+ Todos los días, yo actualizo mi red social.  Yo cocino a la parrilla el pollo y muchas verduras. Yo soy mucho fuerte por que el come mucho las proteínas y mucho verduras.  Yo quiero hacer ejercicio y companero de cuarto y mi hacemos ejercicio todos los dias. Mi y mi companeros de cuarto somos famoso por que nostros tenemos días de trampa. En días de trampa, nostros comemos mucho dolce y grasoso comida. Mi companero de cuarto nombre es *FIRST_NAME*.  Yo quiero *FIRST_NAME*.  

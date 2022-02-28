@@ -1,0 +1,19 @@
+Soy una chica de *AGE* años. Ahora estoy viviendo en *CITY*, pero soy de *CITY* *CITY*, *STATE*. Soy un estudiante de ultimo ano en la Universidad de *UNIVERSITY*, *UNIVERSITY*. Tengo dos especializaciones: el Desarrollo Humano y el Español. Además, tengo un menor en Educación. Estoy planeando estudiar para ser una maestra de escuela primaria dentro de los próximos dos años. Me gusta mucho trabajar con niños, por eso quiero ser una maestra. 
+
+Mi familia consiste en mi mamá, mi papá y mi hermana mayor. Mi mamá es una diseñadora de interiores y mi papá trabaja en la construcción. Mi hermana también asistió a *UNIVERSITY* *UNIVERSITY*, pero se graduó hace dos años. Ahora, ella trabaja en finanzas como una analista de crédito para un banco. Tengo dos perritos: *FIRST_NAME* y *FIRST_NAME*, son golden retrievers. Además de mi familia, tengo un novio que trabaja en bienes raíces. Hemos estado juntos durante tres años y medio, pero nos conocemos desde hace mucho tiempo. 
+
+En el futuro, quiero viajar a un país hispanohablante. Es mi sueno ir a San Sebastian, España o Lima, Peru. Quiero descubrir más sobre las culturas hispanas. Creo que es importante aprender todo lo que puedas sobre culturas que no sean las tuyas. 
+
+Algunos hechos divertidos sobre mí:
+
+* Tengo un hueso extra en ambos de mis pies. 
+
+* Puedo montar un caballo muy bien. 
+
+* Me rompí mi codo cuando tenia *AGE* anos y nunca sanó correctamente. 
+
+* Una da mis comidas favoritas son las alcachofas. 
+
+* Puedo decir el alfabeto al revés. 
+
+* Me gusta mucho aprender español, pero quiero aprender otras lenguajes también como francés. 

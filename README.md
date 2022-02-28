@@ -25,7 +25,7 @@ Metadata:
 Metadata files consist of the following data items separated by "|||":
 1) Course enrolled
 2) Age
-3) Sex
+3) Gender
 4) L1 language
 5) Other L1 language(s)
 6) Language(s) spoken at home
@@ -35,6 +35,8 @@ Metadata files consist of the following data items separated by "|||":
 10) speaking ability **
 11) writing ability **
 12) Have you ever lived in a Spanish-speaking country?
+
+NOTE: Metadata questions updated for for W21 and S21 data. See below.
 
 \* Comprehension is self-described on the following scale:
 * 1 (not confident at all)
@@ -49,3 +51,31 @@ Metadata files consist of the following data items separated by "|||":
 * 3 (somewhat confident)
 * 4 (quite confident)
 * 5 (extremely confident)
+
+Metadata format for S21 and W21:
+1) Course enrolled
+2) Age
+3) Gender
+4) How many years of Spanish courses had you taken before arriving to UC Davis?
+5) What was the first Spanish course you took at UC Davis? 
+6) How many previous Spanish upper division courses have you been enrolled in?
+7) Which language(s) do you consider to be your mother tongue(s)?
+8) Did you grow up in a Spanish-speaking household?
+9) How many languages can you communicate in (including your mother tongue)?
+10) Have you ever spent more than 1 month in a Spanish-speaking country?
+11) Where did you attend elementary school?
+12) Where did you attend High School?
+13) Did you ever attend a bilingual (Spanish-English) school during K-12?
+14) On a normal day, how much exposure (radio, papers, movies, people talking to you, etc.) to the Spanish language do you get outside of your Spanish language class?
+15) Why do you study Spanish?
+16) I feel [1] understanding my instructor when they speak Spanish in class.
+17) feel [2] understanding a Spanish-speaking movie without subtitles.
+18) feel [3] understanding the readings in the Spanish textbook or other classroom materials.
+19) feel [4] understanding a newspaper article in Spanish.
+20) feel [5] speaking Spanish in class.
+21) feel [6] speaking Spanish outside of class.
+22) feel [7] writing assignments for my Spanish course.
+23) feel [8] writing a blog post in Spanish. 
+24) [1]  that I will get a good grade for my current Spanish course.
+25) I feel [2] about my current Spanish class. 
+26) I feel that my Spanish course is [3].

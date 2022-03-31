@@ -79,3 +79,14 @@ Metadata format for S21 and W21:
 24) [1]  that I will get a good grade for my current Spanish course.
 25) I feel [2] about my current Spanish class. 
 26) I feel that my Spanish course is [3].
+
+## CSV Data Format
+
+In addition to the raw text and corresponding annotations, corrections, and metadata files for individual essays, we have provided all of the currently available COWS-L2H data in a more user-friendly CSV format. To access these files, you can download the entire COWS-L2H repository, as described in the guide [How to use the COWS-L2H Corpus](https://docs.google.com/document/d/1vdEGCx2LSg_-sI2lGDwPGfbhJF_wzGDLvW9o95wp6wY/edit?usp=sharing). Alternatively, if you wish to view and download individual CSV files, do the following:
+
+1) Browse to "csv" directory, which lists all available CSV files by topic and quarter.
+2) Click on the desired CSV file, such as "famous.F17.csv"
+3) If the contents of the file do not display automatically, click on the "View raw" option.
+4) The raw text format of the data should now be visible in your browser window.
+5) Click "File" then "Save Page As" or the equivalent on your browser menu.
+6) Select the desired save location and save the file.

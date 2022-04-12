@@ -43,16 +43,16 @@ essays_terrible = list()
 #add to essay_special list
 for essay in essays_special_init:
     level = 0
-    if meta_dict_special[essay[0]][0][4:] not in ["", '\n']:
-        level = int(meta_dict_special[essay[0]][0][4:])
+    if meta_dict_special[essay[0]][0][0][4:] not in ["", '\n']:
+        level = int(meta_dict_special[essay[0]][0][0][4:])
     mtld = essay[2]
     essays_special.append((level, mtld))
 
 #do the same for essay_terrible
 for essay in essays_terrible_init:
     level = 0
-    if meta_dict_terrible[essay[0]][0][4:] not in ["", '\n']:
-        level = int(meta_dict_terrible[essay[0]][0][4:])
+    if meta_dict_terrible[essay[0]][0][0][4:] not in ["", '\n']:
+        level = int(meta_dict_terrible[essay[0]][0][0][4:])
     mtld = essay[2]
     essays_terrible.append((level, mtld))
 

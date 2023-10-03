@@ -9,7 +9,7 @@ The dataset currently contains data from two programs led by a large, US univers
 
 ### About the data
 
-The prompts were designed as emails that students had to write to make requests from two types of interlocutors that differ in social distance:
+The prompts were designed as emails in which students completed the speech act of making a request. They wrote two emails per data collection time, addressing two types of interlocutors that differed in social distance:
 
 1. An older professor from the host country (greater social distance)
 2. A peer (someone around their age) from the host country (less social distance)

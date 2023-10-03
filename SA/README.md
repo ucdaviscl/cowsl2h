@@ -29,6 +29,8 @@ The programs are 10-11 weeks in length. Data was collected on the following inte
 | Time 6   | 7.5 months after SA program        | Ask for feedback about something        |
 | Time 7   | 1 year since beginning of SA program        | Ask for information about something (repeat of first prompt)        |
 
+This data was collected and compiled in this corpus based on approval from the University of California- Davis IRB, project number 1930742-2. Students consented to participate in this study and were thanked for their participation through gift cards.
+
 * * *
 
 ### How to access the data

@@ -25,9 +25,10 @@ The programs are 10-11 weeks in length. Data was collected on the following inte
 
 **8. Time 8:** 12 months after SA program
 
-Metadata is available in [this file] (https://github.com/ucdaviscl/cowsl2h/blob/master/SA/COWS-L2H-SA%20metadata%2010-3-23.csv).
+Metadata is available in [this file](https://github.com/ucdaviscl/cowsl2h/blob/master/SA/COWS-L2H-SA%20metadata%2010-3-23.csv).
 
 To cite COWS-L2H-SA:
+
 Minnillo, S. (2023, October). Bridging borders through study abroad: Introducing the Corpus of
 Written Spanish- L2 and Heritage- Study Abroad (COWS-L2H-SA). Poster presentation at _LCR
 Grad Conference_.

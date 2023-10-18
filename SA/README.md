@@ -14,7 +14,7 @@ The prompts were designed as emails in which students completed the speech act o
 1. An older professor from the host country (greater social distance)
 2. A peer (someone around their age) from the host country (less social distance)
 
-The students were asked to write 200-250 words per email if they were at the intermediate or advanced level, and at least 50 words per email if they were at the beginner level. They were instructed to make the emails as realistic as possible and to not use outside resources (e.g., translators, AI).
+The task was untimed, and students submitted their work online through a learning management system. The students were asked to write 200-250 words per email if they were at the intermediate or advanced level, and at least 50 words per email if they were at the beginner level. They were instructed to make the emails as realistic as possible and to not use outside resources (e.g., translators, AI).
 
 The programs are 10-11 weeks in length. Data was collected on the following interval, although not all participants completed all of the tasks:
 
@@ -29,7 +29,7 @@ The programs are 10-11 weeks in length. Data was collected on the following inte
 | Time 6   | 7.5 months after SA program        | Ask for feedback about something        |
 | Time 7   | 1 year since beginning of SA program        | Ask for information about something (repeat of first prompt)        |
 
-This data was collected and compiled in this corpus based on approval from the University of California- Davis IRB, project number 1930742-2. Students consented to participate in this study and were thanked for their participation through gift cards.
+This data was collected and compiled in this corpus based on approval from the University of California- Davis IRB, project number 1930742-2. Students consented to participate in this study and were thanked for their participation through gift cards. The task did not impact students' grades or academic program status.
 
 * * *
 

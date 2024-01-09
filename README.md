@@ -25,6 +25,8 @@ Essays are divided based on the prompts used to collect the data-
 
 Each essay prompt is further divided by the quarter in which the data was collected.
 
+Please see our recent [OpenReview paper submission](https://openreview.net/pdf?id=h6577g6KoMi) for a more detailed description of the corpus and motivations for its development.
+
 #### Longitudinal data:
 
 We include a CSV file, `longitudinal_essay_data.csv`, that lists all essays submitted by students who participated in the project for three or more academic terms. This data allows researchers to study individual language acquisition patterns, as well as to study the development of a cohort of students.

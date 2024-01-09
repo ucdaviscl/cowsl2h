@@ -17,9 +17,23 @@ terrible: Write a text about the following subject: "a terrible story"
 
 Each essay prompt is further divided by the quarter in which the data was collected.
 
-Annotations: We have annotated a subset of essays for gender/number agreement and usage of "a personal." These annotation targets were chosen based on specific research questions. We encourage fellow researchers to add to our annotations. Please see the included annotation scheme for further information.
+#### Annotations: 
 
-Corrections: We have also included corrected essays for S17_vacation, S17_famous, and F17_famous. We are in the process of correcting additional essays and will update the corpus as these are ready to be made public.
+The first round of annotations consists of annotations of a subset of essays for gender/number agreement or attribution and usage of "a personal." These annotation targets were chosen based on specific research questions. Our second round of annotations added the following targets:
+
+1.	Presence or absence of subject pronouns or articles.
+2.	Confusion of preposition usage or of the usage of the verbs 'ser' and 'estar'.
+3.	Adjective placement errors.
+
+Many essays have been annotated for the same target by two (or in some cases more) anntotators to ensure annotation reliability. Essays that have been multi-annotated will include a second copy of the annotated file with a ' (1)' appended to the filename.
+
+A more detailed description of these error types and the annotations procedure can be found in round2 annotation and correction documentation included in the repository (in Spanish).
+
+We encourage fellow researchers to add to our annotations. Please see the included annotation scheme for further information.
+
+#### Corrections: 
+
+We have also included corrected essays for S17_vacation, S17_famous, and F17_famous. We are in the process of correcting additional essays and will update the corpus as these are ready to be made public.
 
 Metadata:
 Metadata files consist of the following data items separated by "|||":

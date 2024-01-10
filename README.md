@@ -33,7 +33,7 @@ We include a CSV file, `longitudinal_essay_data.csv`, that lists all essays subm
 
 #### Study Abroad (SA) data:
 
-This is the subset of the COWS corpus consisting of longitudinal data from English-dominant students participating in immersive study abroad (SA) programs in Spanish-speaking contexts. The prompts were designed as emails in which students completed the speech act of making a request. The SA data, and more information about its collection, can be found in the '[SA folder]([url](https://github.com/ucdaviscl/cowsl2h/tree/master/SA)).' 
+This is the subset of the COWS corpus consisting of longitudinal data from English-dominant students participating in immersive study abroad (SA) programs in Spanish-speaking contexts. The prompts were designed as emails in which students completed the speech act of making a request. The SA data, and more information about its collection, can be found in the [SA folder](https://github.com/ucdaviscl/cowsl2h/tree/master/SA). 
 
 #### Annotations: 
 

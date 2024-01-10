@@ -31,6 +31,10 @@ Please see our recent [OpenReview paper submission](https://openreview.net/pdf?i
 
 We include a CSV file, `longitudinal_essay_data.csv`, that lists all essays submitted by students who participated in the project for three or more academic terms. This data allows researchers to study individual language acquisition patterns, as well as to study the development of a cohort of students.
 
+#### Study Abroad (SA) data:
+
+This is the subset of the COWS corpus consisting of longitudinal data from English-dominant students participating in immersive study abroad (SA) programs in Spanish-speaking contexts. The prompts were designed as emails in which students completed the speech act of making a request. The SA data, and more information about its collection, can be found in the '[SA folder]([url](https://github.com/ucdaviscl/cowsl2h/tree/master/SA)).' 
+
 #### Annotations: 
 
 The first round of annotations consists of annotations of a subset of essays for gender/number agreement or attribution and usage of "a personal." These annotation targets were chosen based on specific research questions. Our second round of annotations added the following targets:

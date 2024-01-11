@@ -25,7 +25,7 @@ Essays are divided based on the prompts used to collect the data-
 
 Each essay prompt is further divided by the quarter in which the data was collected.
 
-Please see our recent [OpenReview paper submission](https://openreview.net/pdf?id=h6577g6KoMi) for a more detailed description of the corpus and motivations for its development.
+Please see our recent [OpenReview paper submission](https://github.com/ucdaviscl/cowsl2h/blob/master/corpus_2.0_paper.pdf) for a more detailed description of the corpus and motivations for its development.
 
 #### Longitudinal data:
 

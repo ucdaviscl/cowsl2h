@@ -7,21 +7,57 @@ All essays, annotations, and corrections are available both as individual text f
 
 Essays are divided based on the prompts used to collect the data-
 
-famous: Write a text in Spanish about the following subject: "a famous person"
+- famous: Write a text in Spanish about the following subject: "a famous person"
 
-vacation: Write a text in Spanish about the following subject: "your perfect vacation plan"
+- vacation: Write a text in Spanish about the following subject: "your perfect vacation plan"
 
-special: Write a text in Spanish about the following subject: "a special person in your life"
+- special: Write a text in Spanish about the following subject: "a special person in your life"
 
-terrible: Write a text about the following subject: "a terrible story"
+- terrible: Write a text about the following subject: "a terrible story"
+
+- yourself: Write a text describing yourself.
+
+- beautiful: Write a text in Spanish about the following subject: "a beautiful story"
+
+- place_you_disike: Write a text in Spanish about the following subject: "a place you dislike"
+
+- Chaplin: Watch a brief clip from Chaplin's 'The Kid'. Write a text in Spanish describing the scene.
 
 Each essay prompt is further divided by the quarter in which the data was collected.
 
-Annotations: We have annotated a subset of essays for gender/number agreement and usage of "a personal." These annotation targets were chosen based on specific research questions. We encourage fellow researchers to add to our annotations. Please see the included annotation scheme for further information.
+Please see our recent [OpenReview paper submission](https://openreview.net/pdf?id=h6577g6KoMi) for a more detailed description of the corpus and motivations for its development.
 
-Corrections: We have also included corrected essays for S17_vacation, S17_famous, and F17_famous. We are in the process of correcting additional essays and will update the corpus as these are ready to be made public.
+#### Longitudinal data:
 
-Metadata:
+We include a CSV file, `longitudinal_essay_data.csv`, that lists all essays submitted by students who participated in the project for three or more academic terms. This data allows researchers to study individual language acquisition patterns, as well as to study the development of a cohort of students.
+
+#### Study Abroad (SA) data:
+
+This is the subset of the COWS corpus consisting of longitudinal data from English-dominant students participating in immersive study abroad (SA) programs in Spanish-speaking contexts. The prompts were designed as emails in which students completed the speech act of making a request. The SA data, and more information about its collection, can be found in the [SA folder](https://github.com/ucdaviscl/cowsl2h/tree/master/SA). 
+
+#### Annotations: 
+
+The first round of annotations consists of annotations of a subset of essays for gender/number agreement or attribution and usage of "a personal." These annotation targets were chosen based on specific research questions. Our second round of annotations added the following targets:
+
+1.	Presence or absence of subject pronouns or articles.
+2.	Confusion of preposition usage or of the usage of the verbs 'ser' and 'estar'.
+3.	Adjective placement errors.
+
+Many essays have been annotated for the same target by two (or in some cases more) anntotators to ensure annotation reliability. Essays that have been multi-annotated will include a second copy of the annotated file with a ' (1)' appended to the filename. Similarly, many annotated files have been annotated for different error targets - those which are targeting verb errors (specifically the use of 'ser' and 'estar') have "_verbs" appended to the filename. Please see the version 2.0 annotation guidelines for a more detailed description.
+
+Note that all essays listed in the `longitudinal_essay_data.csv` file have been annotated following the version 2.0 annotation guidelines.
+
+A more detailed description of these error types and the annotations procedure can be found in the version 2.0 annotation and correction documentation included in the repository (in Spanish).
+
+We encourage fellow researchers to add to our annotations. Please see the included annotation scheme for further information.
+
+#### Corrections: 
+
+The corpus includes holistic corrections (corrected by graduate-level Spanish instructors) for a large portion of the collected essays. As with the annotated data, all essays in the `longitudinal_essay_data.csv` file have been corrected by at least one instructor.
+
+A portion of the essays have been corrected by two instructors to measure correction consistency and to provide multiple correction referecens for grammatical error correction (GEC) model evaluation. Those essays which have two corrections will have a duplicate of the target file with a ' (1)' appended to the filename.
+
+#### Metadata:
 Metadata files consist of the following data items separated by "|||":
 1) Course enrolled
 2) Age

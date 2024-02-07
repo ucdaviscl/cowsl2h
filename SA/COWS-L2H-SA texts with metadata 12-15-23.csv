@@ -1,4 +1,4 @@
-File_name,Participant_ID,Program,level_program,housing,year_undergraduate_degree,major,age,gender,years_studying_Spanish,Spanish_in_home,Proficiency_self_evaluation_beginning_of_program,Time,Formality,Text
+File_name,Participant_ID,Program,level_program,housing,year_undergraduate_degree,major,age_beginning_of_program,gender,years_studying_Spanish_beginning_of_program,Spanish_in_home,Proficiency_self_evaluation_beginning_of_program,Time,Formality,Text
 part1_writing2_formal_mendoza,Participant_1,Mendoza_2022,advanced,host_family,3rd,Psychology and Spanish,20,Female,4.5,No,intermediate low,2,formal,"Hola estimida profesora, 
 Espero que esté muy bien. Muchas gracias por todo que esta programa me ha dado. He tenido experencias nuevas y extraordinarias desde llegando aca en Mendoza, Argentina. Especialmente me ha gustado los viajes en los fines de semana donde podemos ver rutas hermosas y vistos increíbles todos juntos. 
 Por supuesto, las clases también son muy importantes para yo. Como aca, estoy estudiando español, en los estados unidos estoy estudiando la psicología también. Por eso, tengo un favor a pedirle, si es posible. Sería tan amable a ayudarme con una estudia que tengo que hacer? Nomás yo necesitaría preguntarle algunos preguntas sobre la idea de las programas intercambios y sus afectos y consecuencias en la gente. Podría ser una entrevista muy corto en persona, por llamada, o también por correo electrical, qualquier es la mejor y más facil para usted. 
@@ -144,7 +144,7 @@ Saludos,
 part11_writing4_informal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,4,informal,"Hola, espero que seas bien. Quiero ver Taylor Swift en México el 24 de agosto. ¿Quieres ir conmigo? Los billetes cuestan 400 euros (muy caros). Me gustan las canciones ""You're on Your Own Kid"" y ""Red."" ¿Cuáles son tus canciones favoritas? Creo que los billetes pueden ser comprados a través la oficina al estadio. Podemos comprarlos allí. Después de la clase hoy, podemos reunirnos a la cafetería para discutir las detalles. ¡Estoy emocionada para el concierto!
 Adios,
 [nombre]"
-part11_writing4_formal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,5,formal,"Hola, Profesora,
+part11_writing5_formal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,5,formal,"Hola, Profesora,
 
 
 Espero que seas bien. Quiero saber si tiene disponibilidad para hablar sobre mi proyecto final de universidad. En mi departamento académico, es un requerimiento escribir una ""Tesis"" con una pregunta sobre el tema, los recursos de la investigación (como las estadísticas, los libros o los artículos de un sitio académico en el internet). Quiero escribir sobre el clima político en los Estados Unidos y los efectos en la participación de los votantes menores. Muchas gracias por su ayuda.
@@ -152,13 +152,29 @@ Espero que seas bien. Quiero saber si tiene disponibilidad para hablar sobre mi 
 
 Saludos,
 [nombre]"
-part11_writing4_informal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,5,informal,"Hola,
+part11_writing5_informal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,5,informal,"Hola,
 
 
 ¿Qué tal estás? No recuerdo el tiempo final desde que hablábamos. Tengo billetes para un concierto en San Francisco durante las vacaciones de invierno. ¿Quieres ir conmigo? Puedo ver si hay espacio en un restaurante para la noche del concierto para comer y explorar la ciudad. Dime que pienas. 
 
 
 Hasta luego,
+[nombre]"
+part11_writing6_formal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,6,formal,"Estimado, Profesor,
+
+
+Espero que esté bien. Quiero ver si es posible tener una reunión sobre el exámen final. Yo sé que hay una guía para estudiar en la página de Canvas, y tengo cuestiones sobre el contenido. Específicamente, estoy nerviosa sobre la parte de tiempo gramatical del futuro y el subjuntivo. Entiendo el futuro y el subjuntivo para los verbos de -ar y -er, pero no entiendo el tiempo gramatical para los verbos de -ir. ¿Puede explicar este concepto en la reunión? Muchas gracias, y espero que tenga un buen fin de semana. 
+
+
+Saludos,
+[nombre]"
+part11_writing6_informal_madrid,Participant_11,Madrid_2023,advanced,host_family,3rd,"International Relations, Spanish",20,Female,8,No,intermediate high,6,informal,"Hola, [nombre],
+
+
+Espero que estes muy bien. ¿Qué tal está el trimestre? Quiero visitar la costa central de California durante las vacaciones de primavera. ¿Tienes tiempo para este viaje? Específicamente, quiero ver las playas cerca de San Simeón y San Luis Obispo. Además, ¿sabes cómo surfear? Tengo algunos amigos que viven en San Luis Obispo con una casa cerca de la playa, y podemos surfear durante el viaje. Dime que piensas sobre esta idea. Vale, adiós, ten un buen fin de semana. 
+
+
+Saludos,
 [nombre]"
 part12_writing1_formal_madrid,Participant_12,Madrid_2023,advanced,host_family,4th,sociology,21,Female,3.5,Yes,intermediate,1,formal,"Buenas tardes Profesora [nombre],
 Espero que te encuentro bien y que andas disfrutando Semana Santa. Quería preguntar algo sobre lo que dijiste en clase este semana pasada. Estábamos hablando de la literatura, específicamente de la diferencia de narrativa y discurso. Se que narrativa es cómo se cuenta una historia. Tiene tres partes: el autor, el texto, y el lector. Pero, también se que discurso es como se cuenta la historia y que tiene siete partes. Entonces no entiendo la diferencia de narrativa y discurso. No se si tengo la mala definición por una de las palabras ó si es algo que se ocupa explicar en persona. A lo mejor me ayuda si me puedes dar un ejemplo usando las dos palabras por la misma historia. Otra pregunta, ¿que es la diferencia de la trama de una historia y el discurso? La trama de la historia incluya: la exposicion, el desarrollo, el suspenso, el punto decisivo, el clímax, y el desenlace. La trama también tiene siete partes, igual como el discurso. ¿Son elementos diferentes ó no? ¿sus definiciones son iguales? Esos son mi preguntas del clase. Lo aprecio si puedes clarificar estas palabras de vocabulario de literatura. 
@@ -418,3 +434,10 @@ part18_writing5_informal_madrid,Participant_18,Madrid_2023,beginner,dorm,3rd,Int
 Necesito tu consejo. Estoy pensando en viajar a la India el año que viene. Ha sido mi sueño desde que tenía diez años viajar a la India. Solo tú lo sabes. Quiero ver el mundo, pero a veces tengo miedo. No tengo miedo de estar solo, tengo miedo de decepcionar a mis padres. No sé. Me siento perdido. Chica, sabes que me encantan los viajes y las nuevas experiencias, pero odio decepcionar a la gente. Mis padres no creen que deba ir, dicen que es peligroso. ¿Qué debo hacer? Tengo dos opciones. Uno, puedo escuchar a mis padres y no ir. Si no voy, pasaré ese tiempo trabajando y ahorraré mucho dinero para la escuela. La otra opción, voy. Si voy a la India y sigo mi corazón, arriesgaré mi relación con mis padres. Quiero mucho a mis padres, han hecho mucho por mí. También me encanta viajar y quiero ser libre. ¿Crees que me entenderán? No quiero irme a otro país sabiendo que mis padres están enojados conmigo, es una situación difícil. Me siento estresado. ¿Qué te parece? ¿Debería ir y tratar de arreglar las cosas después? ¿Debo quedarme en los Estados Unidos y trabajar para ahorrar dinero y al mismo tiempo complacer a mis padres? ¿Debo mentir? Necesito tu consejo.
 						
 Todo mi amor, [nombre apellido]"
+part18_writing6_formal_madrid,Participant_18,Madrid_2023,beginner,dorm,3rd,International Relations & Psychology,19,Female,0,No,beginner,6,formal,"Hola profesor,
+
+Espero que se encuentre bueno. Me dirijo a usted con respecto a una decisión importante que estoy considerando: la posibilidad de estudiar en el extranjero, específicamente en México. Me gustaría su experiencia y sabiduría para obtener orientación sobre este asunto. Estoy entusiasmado con la idea de sumergirme en una nueva cultura y mejorar mi español a través de la inmersión. Creo que esta experiencia enriquecerá mi educación y perspectiva. Sin embargo, tengo algunas preocupaciones que me gustaría discutir contigo. En primer lugar, el aspecto financiero es una consideración importante. ¿Cómo puedo manejar los costos asociados con estudiar en el extranjero? Además, estoy preocupado por la posibilidad de que graduarme tarde pueda afectar mis planes futuros. ¿Cuál es su opinión sobre este tema? También estoy contemplando otras opciones de estudio en diferentes lugares, y me pregunto si tiene algún consejo sobre la comparación entre ellas. ¿Hay factores específicos que debería considerar al tomar esta decisión? Aprecio enormemente su tiempo y orientación en este asunto. Su experiencia como profesor y conocedor de la lengua y la cultura españolas es invaluable para mí. Gracias de antemano por su ayuda. Gracias, [nombre]"
+part18_writing6_informal_madrid,Participant_18,Madrid_2023,beginner,dorm,3rd,International Relations & Psychology,19,Female,0,No,beginner,6,informal,"Hola [nombre],
+Espero que estés bien. Estoy pensando en estudiar fuera del país y me preguntaba si podrías darme tu opinión al respecto. Estoy pensando en México y quería saber qué piensas al respecto. Estoy emocionado por la idea de sumergirme en una nueva cultura y mejorar mi español con la inmersión. ¿Tienes alguna experiencia personal estudiando en el extranjero? ¿Cuáles beneficios has encontrado? Sin embargo, tengo algunas preocupaciones. ¿Cómo manejas los costos de estudiar en el extranjero? ¿Crees que vale la pena a pesar de las dificultades financieras? También estoy pensando en otras opciones de estudio y me gustaría saber tu opinión sobre la comparación entre diferentes lugares. Por último, me preocupa un poco la idea. ¿Has pensado en eso al decidir estudiar en el extranjero? ¿Crees que la experiencia vale la pena aunque retrase la graduación?
+Agradezco cualquier consejo o experiencia que puedas compartir. Tu perspectiva como compañero de estudios sería muy valiosa para mí.
+Gracias chica!! Adiós, [nombre] "

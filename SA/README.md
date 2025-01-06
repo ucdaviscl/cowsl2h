@@ -35,7 +35,7 @@ This data was collected and compiled in this corpus based on approval from the U
 
 ### How to access the data
 
-Metadata is available in [this file](https://github.com/ucdaviscl/cowsl2h/blob/master/SA/COWS-L2H-SA%20metadata%2012-8-23.csv).
+Metadata is available in [this file](https://github.com/ucdaviscl/cowsl2h/blob/master/SA/COWS-L2H-SA%20texts%20with%20metadata%201-6-25.csv).
 
 The anonymized text files are available above. All of the files with metadata can also be found in [this csv file](https://github.com/ucdaviscl/cowsl2h/blob/master/SA/COWS-L2H-SA%20texts%20with%20metadata%2012-15-23.csv).
 

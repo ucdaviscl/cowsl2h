@@ -3,7 +3,7 @@
 
 This is the subset of the COWS corpus consisting of data from English-dominant students participating in immersive study abroad (SA) programs in Spanish-speaking contexts.
 
-The dataset currently contains data from two programs led by a large, US university in two locations: Mendoza, Argentina (in 2022 and 2023) and Madrid, Spain (2023).
+The dataset currently contains data from two programs led by a large, US university in two locations: Mendoza, Argentina (in 2022 and 2023) and Madrid, Spain (2023). For more information about the programs, please read [this document](https://github.com/ucdaviscl/cowsl2h/blob/master/SA/Details%20about%20SA%20programs.pdf).
 
 * * *
 

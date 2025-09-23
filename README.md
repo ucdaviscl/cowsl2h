@@ -133,4 +133,8 @@ We encourage researchers to consider using COWS-L2H as part of projects includin
 
 Consolini, C. (2025). *Exploring Lexicogrammatical Features as Predictors of Writing Quality in Second Language Spanish: A Multivariate Analysis.* [Doctoral dissertation, University of Oregon]. [https://hdl.handle.net/1794/31596](url)
 
-Fernandez-Mira, P. (2024). *The Role of Prompt Characteristics in Shaping L2 Spanish Writing: Lexical Diversity and Pronoun Use in a Learner Corpus.* [Doctoral dissertation, University of California, Davis]. [https://escholarship.org/uc/item/08n4w0xm](url)
+Davidson, S. (2024). *CorreGram: Using Corpus Data to Develop Student-Adaptable Automated Corrective Feedback for the L2 Spanish Language Classroom.* [Doctoral dissertation, University of California, Davis]. [https://escholarship.org/uc/item/3c47078z](url)
+
+Fernández-Mira, P. (2024). *The Role of Prompt Characteristics in Shaping L2 Spanish Writing: Lexical Diversity and Pronoun Use in a Learner Corpus.* [Doctoral dissertation, University of California, Davis]. [https://escholarship.org/uc/item/08n4w0xm](url)
+
+Minnillo, S. (2025). *Affordances of Immersive Study Abroad for Writing and Plurilingual-Pluricultural Competence Development.* Doctoral dissertation, University of California, Davis]. [https://escholarship.org/uc/item/8x51f2vs](url)

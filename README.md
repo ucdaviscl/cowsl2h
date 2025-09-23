@@ -126,3 +126,9 @@ In addition to the raw text and corresponding annotations, corrections, and meta
 4) The raw text format of the data should now be visible in your browser window.
 5) Click "File" then "Save Page As" or the equivalent on your browser menu.
 6) Select the desired save location and save the file.
+
+## Theses and Dissertations that used COWS-L2H
+
+We encourage researchers to consider using COWS-L2H as part of projects including graduate milestone papers. Please consult these examples from scholars who utilized COWS-L2H data in their thesis or dissertation.
+
+Consolini, C. (2025). *Exploring Lexicogrammatical Features as Predictors of Writing Quality in Second Language Spanish: A Multivariate Analysis.* [Doctoral dissertation, University of Oregon]. https://hdl.handle.net/1794/31596
